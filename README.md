@@ -4,7 +4,7 @@ An Alpine package for building menu screens that can be navigated using arrows, 
 
 ## Usage
 
-```
+```html
 <div x-data="arrow_focus()">
     <button x-spread="item" class="p-8 focus:bg-gray-500">First item</button>
     <button x-spread="item" class="p-8 focus:bg-gray-500">Second item</button>
