@@ -20,7 +20,7 @@ Pressing the up & down keys will now switch between items. When the down key is 
 
 ```html
 <script>
-import { arrow_focus } from 'https://unpkg.com/@leanadmin/wire-replace@0.1.0';
+import { arrow_focus } from 'https://unpkg.com/@leanadmin/alpine-arrow-focus@0.1.0';
 
 window.arrow_focus = arrow_focus;
 </script>
