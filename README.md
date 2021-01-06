@@ -16,14 +16,10 @@ Pressing the up & down keys will now switch between items. When the down key is 
 
 ## Installation
 
-### CDN module
+### CDN
 
 ```html
-<script>
-import { arrow_focus } from 'https://unpkg.com/@leanadmin/alpine-arrow-focus@0.1.0';
-
-window.arrow_focus = arrow_focus;
-</script>
+<script src="https://unpkg.com/@leanadmin/alpine-arrow-focus@0.1.1/cdn.js"></script>
 ```
 
 ### Node.js
