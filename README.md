@@ -19,7 +19,7 @@ Pressing the up & down keys will now switch between items. When the down key is 
 ### CDN
 
 ```html
-<script src="https://unpkg.com/@leanadmin/alpine-arrow-focus@0.1.1/cdn.js"></script>
+<script src="https://unpkg.com/@leanadmin/alpine-arrow-focus@0.1.1/cdn.js" type="module"></script>
 ```
 
 ### Node.js
