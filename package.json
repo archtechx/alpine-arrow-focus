@@ -1,5 +1,5 @@
 {
-  "name": "alpine-arrow-focus",
+  "name": "@leanadmin/alpine-arrow-focus",
   "version": "0.1.0",
   "description": "Focus elements using arrows in Alpine.js",
   "main": "index.js",
