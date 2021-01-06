@@ -1,0 +1,20 @@
+{
+  "name": "alpine-arrow-focus",
+  "version": "0.1.0",
+  "description": "Focus elements using arrows in Alpine.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeanAdmin/alpine-arrow-focus.git"
+  },
+  "keywords": [
+    "alpine",
+    "alpinejs"
+  ],
+  "author": "Samuel Štancl <samuel.stancl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeanAdmin/alpine-arrow-focus/issues"
+  },
+  "homepage": "https://github.com/LeanAdmin/alpine-arrow-focus#readme"
+}
